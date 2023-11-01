@@ -68,7 +68,7 @@ var controller = (function (budgetCtrl, UICtrl) {
     });
   }
 
-L
+
   
 
   var ctrlAddItem = function () {
